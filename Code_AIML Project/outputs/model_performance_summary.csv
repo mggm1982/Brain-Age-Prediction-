@@ -1,0 +1,4 @@
+Split,Samples,MAE,R²,Mean Error
+train,3227,5.714,0.679,0.129
+internal_test,362,5.889,0.586,0.086
+external_test,395,5.123,0.654,-2.245
